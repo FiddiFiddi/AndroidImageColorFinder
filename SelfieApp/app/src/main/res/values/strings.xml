@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SelfieApp</string>
+    <string name="takePictureBtn">Take Picture</string>
+    <string name="title">THE SELFIE APP</string>
+</resources>
